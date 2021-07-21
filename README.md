@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+###I'm Gabriel, Front-end developer 
+
 <!--
 **gabriel-santi/gabriel-santi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
