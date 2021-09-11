@@ -1,6 +1,8 @@
-### Hi there 👋
+### Heyy👋
 
-### Meu nome é Gabriel, futuro Front-end developer. 
+### Me chamo Gabriel, atualmente estou estudando desenvolvimento front-end com React, aqui tenho alguns projetinhos pessoais e acadêmicos que usei para praticar e fixar o aprendizado.
+### Meus hobbies são assitir animes e jogar🕹
+### Let's code🚀! 
 
 <!--
 **gabriel-santi/gabriel-santi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
