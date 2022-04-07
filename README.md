@@ -2,7 +2,7 @@
 
 ### Me chamo Gabriel, atualmente estou estudando desenvolvimento front-end com React, aqui tenho alguns projetinhos pessoais e acadêmicos que uso para praticar e fixar o aprendizado.
 
-###Contato: marcosgabrielss23@gmail.com
+### Contato: marcosgabrielss23@gmail.com
 
 <!--
 **gabriel-santi/gabriel-santi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
