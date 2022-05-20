@@ -1,6 +1,6 @@
 ### Heyy👋
 
-## Estou estudando desenvolvimento front-end com React atualmente. Aqui tenho alguns projetinhos acadêmicos e pessoais que uso para praticar.
+## Dev front-end. Aqui tenho alguns projetinhos acadêmicos e pessoais que uso para praticar.
 
 ### E-mail: marcosgabrielss23@gmail.com
 ### Telefone/Whats: (85) 9 9818-7470
