@@ -1,9 +1,10 @@
-### Heyy👋
+### Salve devs!
 
-## Dev front-end. Aqui tenho alguns projetinhos acadêmicos e pessoais que uso para praticar.
-
+## Dev front-end
+## Aqui tenho alguns projetinhos acadêmicos e pessoais que uso para praticar. Separei nos fixados abaixo os mais interessantes para vocês darem uma olhada.
+ 
 ### E-mail: marcosgabrielss23@gmail.com
-### Telefone/Whats: (85) 9 9818-7470
+### Telefone: (85) 9 9818-7470
 
 <!--
 **gabriel-santi/gabriel-santi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
