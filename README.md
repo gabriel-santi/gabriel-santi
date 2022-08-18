@@ -1,7 +1,6 @@
 ### Salve devs!
 
-## Dev front-end
-## Aqui tenho alguns projetinhos acadêmicos e pessoais que uso para praticar. Separei nos fixados abaixo os mais interessantes para vocês darem uma olhada.
+## Sou desenvolvedor front-end e aqui tenho alguns projetinhos acadêmicos e pessoais que uso para praticar. Separei nos fixados os mais interessantes para vocês darem uma olhada.
  
 ### E-mail: marcosgabrielss23@gmail.com
 ### Telefone: (85) 9 9818-7470
