@@ -31,7 +31,11 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/gabriel-santi?&extension=contest)](https://leetcard.jacoblin.cool/gabriel-santi?extension=heatmap)
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/gabriel-santi?&extension=contest)](https://leetcard.jacoblin.cool/gabriel-santi?extension=heatmap) <a href="https://github.com/gabriel-santi" title="Perfil do Gabriel">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabriel-santi&theme=dracula&show_icons=true" />
+</a>
+
 
 <br/>
 
