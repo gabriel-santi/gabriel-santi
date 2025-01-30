@@ -30,6 +30,7 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Codemagic](https://img.shields.io/badge/-Codemagic-333333?style=flat&logo=codemagic)
 
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/gabriel-santi?&extension=contest)](https://leetcard.jacoblin.cool/gabriel-santi?extension=heatmap) <a href="https://github.com/gabriel-santi" title="Perfil do Gabriel">
