@@ -1,6 +1,6 @@
 ## About me
 
-- 💼 3 years of experience working as Flutter dev mobile.
+- 💼 3 years working as Flutter developer.
 - 🎓 Graduated in Software Analysis and Development.
 - 🌱 Learning Kotlin.
 - 🏅 AWS Certified Cloud Practitioner.
